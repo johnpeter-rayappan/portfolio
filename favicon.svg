@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="JPR logo">
+  <defs>
+    <linearGradient id="jprGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2563EB" />
+      <stop offset="50%" stop-color="#7C3AED" />
+      <stop offset="100%" stop-color="#1D4ED8" />
+    </linearGradient>
+  </defs>
+
+  <rect x="12" y="12" width="40" height="40" rx="9" transform="rotate(45 32 32)" fill="url(#jprGradient)" />
+  <rect x="16" y="16" width="32" height="32" rx="7" transform="rotate(45 32 32)" fill="#FFFFFF" />
+  <text x="32" y="35" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="800" fill="#4F46E5" letter-spacing="0.5">JPR</text>
+</svg>
